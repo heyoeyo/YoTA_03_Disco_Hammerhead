@@ -1,0 +1,5 @@
+
+# Don't include backup files
+*.blend1
+*.kra~
+
